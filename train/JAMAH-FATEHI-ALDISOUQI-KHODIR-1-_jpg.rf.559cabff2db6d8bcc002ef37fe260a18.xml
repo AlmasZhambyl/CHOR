@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>JAMAH-FATEHI-ALDISOUQI-KHODIR-1-_jpg.rf.559cabff2db6d8bcc002ef37fe260a18.jpg</filename>
+	<path>JAMAH-FATEHI-ALDISOUQI-KHODIR-1-_jpg.rf.559cabff2db6d8bcc002ef37fe260a18.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>170</xmin>
+			<xmax>241</xmax>
+			<ymin>219</ymin>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalDegenerativeDiscDisease-Unknown14--6-_jpg.rf.0d326b5b050c6ebfa40e55a57187715b.jpg</filename>
+	<path>CervicalDegenerativeDiscDisease-Unknown14--6-_jpg.rf.0d326b5b050c6ebfa40e55a57187715b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>185</xmax>
+			<ymin>200</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>161</xmin>
+			<xmax>195</xmax>
+			<ymin>250</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>157</xmin>
+			<xmax>188</xmax>
+			<ymin>225</ymin>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>153</xmin>
+			<xmax>183</xmax>
+			<ymin>174</ymin>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

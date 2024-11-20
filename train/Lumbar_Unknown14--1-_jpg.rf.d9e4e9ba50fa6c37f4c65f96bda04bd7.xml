@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Lumbar_Unknown14--1-_jpg.rf.d9e4e9ba50fa6c37f4c65f96bda04bd7.jpg</filename>
+	<path>Lumbar_Unknown14--1-_jpg.rf.d9e4e9ba50fa6c37f4c65f96bda04bd7.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>142</xmin>
+			<xmax>201</xmax>
+			<ymin>235</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>141</xmin>
+			<xmax>208</xmax>
+			<ymin>283</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

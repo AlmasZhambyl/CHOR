@@ -1,0 +1,92 @@
+<annotation>
+	<folder></folder>
+	<filename>RABAB-ABD-alhmid--9-_jpg.rf.67592772b06fa5b1cd90a7bebe0196ca.jpg</filename>
+	<path>RABAB-ABD-alhmid--9-_jpg.rf.67592772b06fa5b1cd90a7bebe0196ca.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Annular Tearrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>145</xmin>
+			<xmax>210</xmax>
+			<ymin>244</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>160</xmin>
+			<xmax>214</xmax>
+			<ymin>153</ymin>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>227</xmax>
+			<ymin>109</ymin>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>157</xmin>
+			<xmax>219</xmax>
+			<ymin>291</ymin>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Annular Tearrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>218</xmax>
+			<ymin>291</ymin>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>145</xmin>
+			<xmax>210</xmax>
+			<ymin>244</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

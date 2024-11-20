@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalDegenerativeDiscDisease-Unknown2--24-_jpg.rf.abb647246c6a59ff15e32ef713ac948c.jpg</filename>
+	<path>CervicalDegenerativeDiscDisease-Unknown2--24-_jpg.rf.abb647246c6a59ff15e32ef713ac948c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>158</xmin>
+			<xmax>187</xmax>
+			<ymin>212</ymin>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>165</xmin>
+			<xmax>197</xmax>
+			<ymin>303</ymin>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>158</xmin>
+			<xmax>190</xmax>
+			<ymin>244</ymin>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

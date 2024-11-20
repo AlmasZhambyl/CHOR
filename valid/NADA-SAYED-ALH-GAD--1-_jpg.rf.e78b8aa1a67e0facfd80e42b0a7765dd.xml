@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>NADA-SAYED-ALH-GAD--1-_jpg.rf.e78b8aa1a67e0facfd80e42b0a7765dd.jpg</filename>
+	<path>NADA-SAYED-ALH-GAD--1-_jpg.rf.e78b8aa1a67e0facfd80e42b0a7765dd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>160</xmin>
+			<xmax>209</xmax>
+			<ymin>285</ymin>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Herniationrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>159</xmin>
+			<xmax>208</xmax>
+			<ymin>285</ymin>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

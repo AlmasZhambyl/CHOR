@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>ABD-ALSALAM-YUSRY-MAHMOUD-ABO-SHADY-1-_jpg.rf.42b83d681b37f741a526f9126a63fe59.jpg</filename>
+	<path>ABD-ALSALAM-YUSRY-MAHMOUD-ABO-SHADY-1-_jpg.rf.42b83d681b37f741a526f9126a63fe59.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>147</xmin>
+			<xmax>234</xmax>
+			<ymin>321</ymin>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>126</xmin>
+			<xmax>233</xmax>
+			<ymin>224</ymin>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

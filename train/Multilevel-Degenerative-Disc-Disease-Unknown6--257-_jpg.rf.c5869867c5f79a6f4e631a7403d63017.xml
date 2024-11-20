@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Multilevel-Degenerative-Disc-Disease-Unknown6--257-_jpg.rf.c5869867c5f79a6f4e631a7403d63017.jpg</filename>
+	<path>Multilevel-Degenerative-Disc-Disease-Unknown6--257-_jpg.rf.c5869867c5f79a6f4e631a7403d63017.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>159</xmin>
+			<xmax>186</xmax>
+			<ymin>107</ymin>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>

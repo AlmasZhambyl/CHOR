@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Unknown10--7-_jpg.rf.72f8386716dcc8eb726968d6aa651f37.jpg</filename>
+	<path>Unknown10--7-_jpg.rf.72f8386716dcc8eb726968d6aa651f37.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>143</xmin>
+			<xmax>183</xmax>
+			<ymin>282</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>140</xmin>
+			<xmax>186</xmax>
+			<ymin>238</ymin>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

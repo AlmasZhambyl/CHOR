@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalMultilevelDegenerativeDiscDisease-AMIRA-SHAWAKAT-ALSAYED-AMER--12-_jpg.rf.3e5fb115ad9d1a6d823e75b5592533a9.jpg</filename>
+	<path>CervicalMultilevelDegenerativeDiscDisease-AMIRA-SHAWAKAT-ALSAYED-AMER--12-_jpg.rf.3e5fb115ad9d1a6d823e75b5592533a9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>182</xmax>
+			<ymin>247</ymin>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>151</xmin>
+			<xmax>183</xmax>
+			<ymin>195</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>160</xmin>
+			<xmax>190</xmax>
+			<ymin>272</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

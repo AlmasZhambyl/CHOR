@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Lumbar_Unknown17--12-_jpg.rf.65a75b82361cdad3ff8fc1783e58385a.jpg</filename>
+	<path>Lumbar_Unknown17--12-_jpg.rf.65a75b82361cdad3ff8fc1783e58385a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Annular Tearrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>157</xmin>
+			<xmax>211</xmax>
+			<ymin>281</ymin>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fracturerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>161</xmin>
+			<xmax>236</xmax>
+			<ymin>113</ymin>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

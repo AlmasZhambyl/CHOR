@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalSpondylodegenerativeChanges-Unknown4--3-_jpg.rf.b9ab62d75f58959f67e832c527c9b64c.jpg</filename>
+	<path>CervicalSpondylodegenerativeChanges-Unknown4--3-_jpg.rf.b9ab62d75f58959f67e832c527c9b64c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>177</xmin>
+			<xmax>208</xmax>
+			<ymin>249</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>207</xmax>
+			<ymin>222</ymin>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>ZAINAB-HANAFEI-ABD-ALSALAM-3-_jpg.rf.ab0136a5647855dde9ddbdc46feecb23.jpg</filename>
+	<path>ZAINAB-HANAFEI-ABD-ALSALAM-3-_jpg.rf.ab0136a5647855dde9ddbdc46feecb23.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>154</xmin>
+			<xmax>199</xmax>
+			<ymin>244</ymin>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>153</xmin>
+			<xmax>200</xmax>
+			<ymin>199</ymin>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Relaxationrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>152</xmin>
+			<xmax>201</xmax>
+			<ymin>243</ymin>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

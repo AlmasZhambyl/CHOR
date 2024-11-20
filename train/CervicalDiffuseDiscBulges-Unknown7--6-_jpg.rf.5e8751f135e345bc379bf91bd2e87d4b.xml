@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalDiffuseDiscBulges-Unknown7--6-_jpg.rf.5e8751f135e345bc379bf91bd2e87d4b.jpg</filename>
+	<path>CervicalDiffuseDiscBulges-Unknown7--6-_jpg.rf.5e8751f135e345bc379bf91bd2e87d4b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Annular Disc Relaxationrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>162</xmin>
+			<xmax>192</xmax>
+			<ymin>176</ymin>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>165</xmin>
+			<xmax>195</xmax>
+			<ymin>200</ymin>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Osteophytesrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>165</xmin>
+			<xmax>195</xmax>
+			<ymin>200</ymin>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>

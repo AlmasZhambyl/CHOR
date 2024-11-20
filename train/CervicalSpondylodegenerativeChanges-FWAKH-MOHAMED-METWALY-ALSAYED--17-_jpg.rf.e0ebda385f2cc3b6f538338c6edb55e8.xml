@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalSpondylodegenerativeChanges-FWAKH-MOHAMED-METWALY-ALSAYED--17-_jpg.rf.e0ebda385f2cc3b6f538338c6edb55e8.jpg</filename>
+	<path>CervicalSpondylodegenerativeChanges-FWAKH-MOHAMED-METWALY-ALSAYED--17-_jpg.rf.e0ebda385f2cc3b6f538338c6edb55e8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>233</xmax>
+			<ymin>232</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>233</xmax>
+			<ymin>258</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

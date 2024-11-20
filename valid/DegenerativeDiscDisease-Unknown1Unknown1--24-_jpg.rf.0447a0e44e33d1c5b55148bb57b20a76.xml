@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>DegenerativeDiscDisease-Unknown1Unknown1--24-_jpg.rf.0447a0e44e33d1c5b55148bb57b20a76.jpg</filename>
+	<path>DegenerativeDiscDisease-Unknown1Unknown1--24-_jpg.rf.0447a0e44e33d1c5b55148bb57b20a76.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>230</xmax>
+			<ymin>106</ymin>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>195</xmin>
+			<xmax>234</xmax>
+			<ymin>153</ymin>
+			<ymax>171</ymax>
+		</bndbox>
+	</object>
+</annotation>

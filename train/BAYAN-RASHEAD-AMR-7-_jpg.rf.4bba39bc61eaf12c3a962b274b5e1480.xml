@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BAYAN-RASHEAD-AMR-7-_jpg.rf.4bba39bc61eaf12c3a962b274b5e1480.jpg</filename>
+	<path>BAYAN-RASHEAD-AMR-7-_jpg.rf.4bba39bc61eaf12c3a962b274b5e1480.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>155</xmin>
+			<xmax>210</xmax>
+			<ymin>218</ymin>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

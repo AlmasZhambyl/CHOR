@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>REDA-MOHAMED-ALSAYED-ATTEYEH-9-_jpg.rf.1bc5f7530bc50a7c4f8c95f3859285f6.jpg</filename>
+	<path>REDA-MOHAMED-ALSAYED-ATTEYEH-9-_jpg.rf.1bc5f7530bc50a7c4f8c95f3859285f6.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>209</xmax>
+			<ymin>280</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>

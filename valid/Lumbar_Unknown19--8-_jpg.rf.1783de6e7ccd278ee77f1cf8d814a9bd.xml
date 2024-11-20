@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Lumbar_Unknown19--8-_jpg.rf.1783de6e7ccd278ee77f1cf8d814a9bd.jpg</filename>
+	<path>Lumbar_Unknown19--8-_jpg.rf.1783de6e7ccd278ee77f1cf8d814a9bd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>140</xmin>
+			<xmax>187</xmax>
+			<ymin>297</ymin>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>168</xmin>
+			<xmax>215</xmax>
+			<ymin>168</ymin>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

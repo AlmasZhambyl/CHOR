@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalDiffuseDiscBulges-AHMAD-MOHAMED-KAMAL-ABD-AL-AZIZ--20-_jpg.rf.0574ae3bfff9cab17c420ab93b35dde1.jpg</filename>
+	<path>CervicalDiffuseDiscBulges-AHMAD-MOHAMED-KAMAL-ABD-AL-AZIZ--20-_jpg.rf.0574ae3bfff9cab17c420ab93b35dde1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>203</xmax>
+			<ymin>224</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>170</xmin>
+			<xmax>196</xmax>
+			<ymin>136</ymin>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

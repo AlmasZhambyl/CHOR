@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>HABA-ALLAH-RSHAD-IBRAHIM-6-_jpg.rf.7b93019878d5e91e07e60154bf98897e.jpg</filename>
+	<path>HABA-ALLAH-RSHAD-IBRAHIM-6-_jpg.rf.7b93019878d5e91e07e60154bf98897e.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>161</xmin>
+			<xmax>236</xmax>
+			<ymin>197</ymin>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>157</xmin>
+			<xmax>219</xmax>
+			<ymin>240</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>160</xmin>
+			<xmax>223</xmax>
+			<ymin>277</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

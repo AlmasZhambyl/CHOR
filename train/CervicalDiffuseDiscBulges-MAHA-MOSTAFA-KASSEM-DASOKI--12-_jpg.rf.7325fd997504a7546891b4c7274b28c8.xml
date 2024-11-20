@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalDiffuseDiscBulges-MAHA-MOSTAFA-KASSEM-DASOKI--12-_jpg.rf.7325fd997504a7546891b4c7274b28c8.jpg</filename>
+	<path>CervicalDiffuseDiscBulges-MAHA-MOSTAFA-KASSEM-DASOKI--12-_jpg.rf.7325fd997504a7546891b4c7274b28c8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>223</xmax>
+			<ymin>255</ymin>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>215</xmax>
+			<ymin>229</ymin>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>

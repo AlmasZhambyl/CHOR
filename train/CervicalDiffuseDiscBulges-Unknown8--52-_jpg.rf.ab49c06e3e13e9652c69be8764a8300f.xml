@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalDiffuseDiscBulges-Unknown8--52-_jpg.rf.ab49c06e3e13e9652c69be8764a8300f.jpg</filename>
+	<path>CervicalDiffuseDiscBulges-Unknown8--52-_jpg.rf.ab49c06e3e13e9652c69be8764a8300f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>159</xmin>
+			<xmax>191</xmax>
+			<ymin>217</ymin>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>151</xmin>
+			<xmax>183</xmax>
+			<ymin>172</ymin>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>152</xmin>
+			<xmax>186</xmax>
+			<ymin>197</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

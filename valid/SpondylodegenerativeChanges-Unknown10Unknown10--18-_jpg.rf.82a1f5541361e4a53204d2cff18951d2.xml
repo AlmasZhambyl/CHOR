@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>SpondylodegenerativeChanges-Unknown10Unknown10--18-_jpg.rf.82a1f5541361e4a53204d2cff18951d2.jpg</filename>
+	<path>SpondylodegenerativeChanges-Unknown10Unknown10--18-_jpg.rf.82a1f5541361e4a53204d2cff18951d2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Osteophytesrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>136</xmin>
+			<xmax>214</xmax>
+			<ymin>30</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

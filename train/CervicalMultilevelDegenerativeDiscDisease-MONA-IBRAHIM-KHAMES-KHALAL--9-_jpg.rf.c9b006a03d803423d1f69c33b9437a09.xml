@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalMultilevelDegenerativeDiscDisease-MONA-IBRAHIM-KHAMES-KHALAL--9-_jpg.rf.c9b006a03d803423d1f69c33b9437a09.jpg</filename>
+	<path>CervicalMultilevelDegenerativeDiscDisease-MONA-IBRAHIM-KHAMES-KHALAL--9-_jpg.rf.c9b006a03d803423d1f69c33b9437a09.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>180</xmin>
+			<xmax>218</xmax>
+			<ymin>188</ymin>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>193</xmin>
+			<xmax>230</xmax>
+			<ymin>255</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>200</xmin>
+			<xmax>237</xmax>
+			<ymin>286</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

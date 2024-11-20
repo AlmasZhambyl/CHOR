@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>ALH-ABO-ZAEAD-ALH-ABOZAID-16-_jpg.rf.2b8367cb00b6f3842dcfa59c05db5b2d.jpg</filename>
+	<path>ALH-ABO-ZAEAD-ALH-ABOZAID-16-_jpg.rf.2b8367cb00b6f3842dcfa59c05db5b2d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>181</xmin>
+			<xmax>223</xmax>
+			<ymin>310</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Relaxationrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>182</xmin>
+			<xmax>223</xmax>
+			<ymin>310</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Relaxationrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>158</xmin>
+			<xmax>213</xmax>
+			<ymin>185</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

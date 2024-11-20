@@ -1,0 +1,66 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalMultilevelDegenerativeDiscDisease-MAGDA-AHMAD-ALSAYED--1-_jpg.rf.80b5458c3bcec8c87314063d4986fb23.jpg</filename>
+	<path>CervicalMultilevelDegenerativeDiscDisease-MAGDA-AHMAD-ALSAYED--1-_jpg.rf.80b5458c3bcec8c87314063d4986fb23.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>172</xmin>
+			<xmax>199</xmax>
+			<ymin>139</ymin>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>181</xmin>
+			<xmax>222</xmax>
+			<ymin>201</ymin>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Protrusionrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>180</xmin>
+			<xmax>221</xmax>
+			<ymin>200</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>175</xmin>
+			<xmax>209</xmax>
+			<ymin>169</ymin>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>

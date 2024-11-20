@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>NASRA-MAHMOUD--1-_jpg.rf.c4a422f379eae79d913e384dff274ffe.jpg</filename>
+	<path>NASRA-MAHMOUD--1-_jpg.rf.c4a422f379eae79d913e384dff274ffe.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>134</xmin>
+			<xmax>176</xmax>
+			<ymin>221</ymin>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>139</xmin>
+			<xmax>186</xmax>
+			<ymin>305</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>173</xmax>
+			<ymin>264</ymin>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

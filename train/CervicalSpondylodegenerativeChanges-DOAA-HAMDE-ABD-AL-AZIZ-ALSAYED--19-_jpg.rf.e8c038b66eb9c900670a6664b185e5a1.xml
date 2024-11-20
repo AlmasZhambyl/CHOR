@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalSpondylodegenerativeChanges-DOAA-HAMDE-ABD-AL-AZIZ-ALSAYED--19-_jpg.rf.e8c038b66eb9c900670a6664b185e5a1.jpg</filename>
+	<path>CervicalSpondylodegenerativeChanges-DOAA-HAMDE-ABD-AL-AZIZ-ALSAYED--19-_jpg.rf.e8c038b66eb9c900670a6664b185e5a1.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>207</xmin>
+			<xmax>236</xmax>
+			<ymin>252</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>199</xmin>
+			<xmax>229</xmax>
+			<ymin>229</ymin>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>187</xmin>
+			<xmax>217</xmax>
+			<ymin>205</ymin>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

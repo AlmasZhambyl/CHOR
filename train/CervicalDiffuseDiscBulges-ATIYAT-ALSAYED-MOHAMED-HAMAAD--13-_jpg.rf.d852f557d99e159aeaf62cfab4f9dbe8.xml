@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>CervicalDiffuseDiscBulges-ATIYAT-ALSAYED-MOHAMED-HAMAAD--13-_jpg.rf.d852f557d99e159aeaf62cfab4f9dbe8.jpg</filename>
+	<path>CervicalDiffuseDiscBulges-ATIYAT-ALSAYED-MOHAMED-HAMAAD--13-_jpg.rf.d852f557d99e159aeaf62cfab4f9dbe8.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>179</xmin>
+			<xmax>220</xmax>
+			<ymin>224</ymin>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>185</xmin>
+			<xmax>224</xmax>
+			<ymin>252</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

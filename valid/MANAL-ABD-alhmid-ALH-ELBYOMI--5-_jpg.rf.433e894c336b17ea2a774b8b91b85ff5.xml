@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>MANAL-ABD-alhmid-ALH-ELBYOMI--5-_jpg.rf.433e894c336b17ea2a774b8b91b85ff5.jpg</filename>
+	<path>MANAL-ABD-alhmid-ALH-ELBYOMI--5-_jpg.rf.433e894c336b17ea2a774b8b91b85ff5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>157</xmin>
+			<xmax>207</xmax>
+			<ymin>264</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Disc Bulgerotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>151</xmin>
+			<xmax>201</xmax>
+			<ymin>222</ymin>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

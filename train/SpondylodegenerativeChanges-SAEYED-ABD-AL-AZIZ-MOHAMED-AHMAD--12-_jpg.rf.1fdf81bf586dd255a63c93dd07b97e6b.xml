@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>SpondylodegenerativeChanges-SAEYED-ABD-AL-AZIZ-MOHAMED-AHMAD--12-_jpg.rf.1fdf81bf586dd255a63c93dd07b97e6b.jpg</filename>
+	<path>SpondylodegenerativeChanges-SAEYED-ABD-AL-AZIZ-MOHAMED-AHMAD--12-_jpg.rf.1fdf81bf586dd255a63c93dd07b97e6b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Degenerative Disc Diseaserotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>149</xmin>
+			<xmax>241</xmax>
+			<ymin>26</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Osteophytesrotation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>149</xmin>
+			<xmax>241</xmax>
+			<ymin>27</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>
