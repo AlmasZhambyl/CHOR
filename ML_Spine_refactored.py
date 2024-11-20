@@ -20,7 +20,7 @@ def parse_xml(xml_file):
         print(f"Error parsing {xml_file}: {e}")
         return None
 
-data_dir = r'C:\Users\almas\Desktop\Final-AML\MRI_ML-INT'
+data_dir = r'C:\Users\almas\Desktop\OCH\CHOR'
 
 train_image_dir = os.path.join(data_dir, 'train')
 valid_image_dir = os.path.join(data_dir, 'valid')
